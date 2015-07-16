@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+﻿What happens when you initialize a repository? Why do you need to do it?
 
 	When I initialise a repository it creats meta data as .git file. So that we ca track it.
 
@@ -6,16 +6,32 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+	staging area is used for commiting some files not all with the same logical change.
+
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+	I will git add only thos files which are changed logicaly equivalently.
+
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	Branches helps when we want to experiment or test some code.
+
+
 How do the diagrams help you visualize the branch structure?
+
+	We can visualise all the branches using the diagram.
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	The result of merging two branches will be a new commit.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+	automatic merging can cause errors but manually we can do things our way.
