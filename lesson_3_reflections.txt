@@ -15,3 +15,21 @@ of another?
 
 	Forks are clones on the github server itself clones are copying the repo localy or 
 	remotely and branches are used on the same same machine.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	We can get our code if needed.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would 
+be harder?
+
+	Manually i.e. sending my code via email or othe servises. It will be harder then collaborating 
+	using github.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What 
+benefits does each approach have?
+
+	When making changes in saperate branch we can experiment with the original code.
